@@ -1,0 +1,235 @@
+{
+  "siteMetadata": {
+    "title": "Ética y Responsabilidad Social en la Contaduría",
+    "description": "Plataforma académica dedicada a la promoción de la ética, la transparencia y el gobierno corporativo en el ejercicio de la contaduría pública.",
+    "institution": "Universidad Nacional Abierta y a Distancia (UNAD)",
+    "course": "Ética y Responsabilidad Social para la Gestión de las organizaciones - Tarea 5"
+  },
+  "home": {
+    "hero": {
+      "title": "La Ética como Pilar del Control y la Confianza Empresarial",
+      "subtitle": "La responsabilidad del contador público va más allá de los números; radica en la fe pública y la salvaguarda de la transparencia organizacional.",
+      "cta": "Explorar Trabajos Académicos"
+    },
+    "ethicalEssay": {
+      "title": "La importancia que tiene la ética sobre la responsabilidad del contador público en su actividad profesional",
+      "paragraphs": [
+        "El contador público es una profesión que se encuentra en la intersección de la confianza social y la técnica numérica. Los contadores gestionan datos financieros que impactan las decisiones de la empresa, los intereses de terceros y la integridad del mercado. Por esta razón, la ética profesional no es un elemento opcional: es la base que legitima el desempeño del contador y salvaguarda el bien común. La ética tiene un papel fundamental en la responsabilidad del contador público y puede ser analizada desde tres aspectos que se relacionan entre sí: vocación deontológica, transparencia y confianza, así como responsabilidad social y legal.",
+        "Para la práctica contable, ante todo, son fundamentales la confianza y la transparencia. Los informes contables son la base para que las compañías, los inversores, las organizaciones gubernamentales y la sociedad en general tomen decisiones económicas. Si los dictámenes, registros o estados financieros no son verídicos o son alterados, las señales clave del mercado se alteran y se crean costos sistémicos. Un contador ético es aquel que trabaja con honradez intelectual, objetividad y diligencia, buscando que la información proporcionada muestre la realidad económica sin omisiones ni sesgos. Este comportamiento mejora la reputación profesional y ayuda a que el sistema económico sea más estable y eficiente.",
+        "En segundo lugar, el contador profesional debe cumplir con las leyes y regulaciones, así como superar el mínimo legal cuando la ley no abarca todos los dilemas éticos. La prevención de fraude, el resguardo de pruebas jurídicas y el cumplimiento tributario son responsabilidades con implicaciones legales; sin embargo, la ética orienta las decisiones en áreas grises, como el manejo de contingencias, las estimaciones contables o la relación con los clientes que piden prácticas cuestionables. El contador tiene la responsabilidad social de tener en cuenta cómo sus acciones afectan a los empleados, proveedores, acreedores y la comunidad. Por ejemplo, encubrir pasivos para salvaguardar ganancias a corto plazo puede ser ventajoso hoy para algunos accionistas, pero perjudica la equidad y la confianza de todos los agentes interesados en el futuro.",
+        "En tercer lugar, el código deontológico proporciona normas precisas para la conducta. Las asociaciones y colegios de contadores publican códigos que definen normas como la competencia profesional, la independencia, el comportamiento profesional y la confidencialidad. Adherirse a esos códigos no solo resguarda la información del usuario, sino que además protege al propio profesional de sanciones y deterioro de su reputación. La ética profesional se refleja también en la formación continua: un contador comprometido mantiene sus conocimientos éticos y técnicos al día para afrontar nuevos desafíos, tales como la digitalización de la información, las auditorías fundamentadas en datos y las regulaciones internacionales de reporte.",
+        "Por último, la práctica ética exige tanto humildad como valentía. En ocasiones, el contador tiene que negarse a validar estados financieros, presentar reservas o reportar anomalías, aunque eso signifique perder clientes o estar bajo presión interna. Esa actitud evidencia que la responsabilidad profesional no solo consiste en implementar normas de contabilidad, sino también en tomar el compromiso moral de salvaguardar la justicia y la transparencia en los contextos económicos.",
+        "En resumidas palabras, la ética es el eje que transforma la habilidad técnica del contador público en una responsabilidad social real. Sin ética, la contabilidad se convierte en una mera mecánica numérica; con ética, se vuelve una garantía de confianza, legalidad y servicio al bienestar general. Por lo tanto, el contador necesita desarrollar principios profesionales firmes, educación continua y valentía para actuar de acuerdo con la verdad, ya que su responsabilidad va más allá de la empresa que lo emplea y ayuda al funcionamiento adecuado de la economía y la sociedad."
+      ]
+    }
+  },
+  "students": [
+    {
+      "id": "jose-vesga",
+      "name": "Jose Daniel Vesga Garcia",
+      "role": "Estudiante de Contaduría Pública",
+      "profile": "Enfoque en auditoría forense, análisis de riesgos éticos y control interno en el sector corporativo.",
+      "phases": {
+        "fase1": {
+          "title": "Fase 1: Reconocimiento",
+          "summary": "Exploración inicial de los conceptos fundamentales de la ética y la responsabilidad social. Mapeo de los dilemas éticos comunes en la gestión de organizaciones y el rol del contador en la mitigación de fraudes financieros.",
+          "link": "https://unadvirtualedu-my.sharepoint.com/:f:/g/personal/jdvesgaga_unadvirtual_edu_co/IgD4oOE1XgTvSK0bjz2y1CeMATz3FLZkiLMcB4CEZin8NzI?e=OXV9Jt",
+          "deliverables": [
+            "Mapa conceptual sobre los marcos éticos internacionales (IFAC y Código de Ética de la Ley 43 de 1990).",
+            "Ensayo reflexivo sobre el impacto de la corrupción en el desarrollo económico local."
+          ]
+        },
+        "fase2": {
+          "title": "Fase 2: Identificación",
+          "summary": "Estudio analítico de casos históricos de fraude contable. Identificación de fallas estructurales en el control interno y cómo la ausencia de valores éticos profesionales propició el colapso de la confianza pública.",
+          "link": "https://unadvirtualedu-my.sharepoint.com/:f:/g/personal/jdvesgaga_unadvirtual_edu_co/IgDIEVJ_3aL7TaZNJKudgXZ7AXmHMmlUp0yTi-Hq7G2W88k?e=ktQ4Q5",
+          "deliverables": [
+            "Análisis individual del caso Odebrecht enfocado en la manipulación de cuentas para desviar recursos hacia sobornos.",
+            "Cuadro comparativo entre la legislación anticorrupción nacional e internacional."
+          ]
+        },
+        "fase3": {
+          "title": "Fase 3: Propuesta",
+          "summary": "Formulación de soluciones y recomendaciones aplicadas al control organizacional. Diseño de flujos lógicos para un sistema de denuncias anónimas y reforzamiento de la independencia del auditor.",
+          "link": "https://unadvirtualedu-my.sharepoint.com/:f:/g/personal/jdvesgaga_unadvirtual_edu_co/IgBQk-5Oa0ztRavrHGXu0yjfAd3I4zsY0Yyf7_iZls1rE_M?e=gRSPaw",
+          "deliverables": [
+            "Esquema de Árbol de Problemas sobre la complicidad contable en prácticas ilícitas.",
+            "Propuesta técnica de actualización del manual de conducta para firmas de auditoría de tamaño medio."
+          ]
+        },
+        "fase4": {
+          "title": "Fase 4: Evaluación",
+          "summary": "Evaluación del gobierno corporativo y la sostenibilidad en el marco contable. Análisis de cómo el contador público debe reportar no solo aspectos financieros, sino también métricas de impacto ambiental y social (ESG).",
+          "link": "https://unadvirtualedu-my.sharepoint.com/:f:/g/personal/jdvesgaga_unadvirtual_edu_co/IgAi8SfAWRX8SJ19f1AJ1gRSAeKV2wJzMy9fXCzBVHp4Q4o?e=Jabg1m",
+          "deliverables": [
+            "Evaluación de la gobernanza corporativa en empresas del sector de la construcción.",
+            "Propuesta de balance social y ambiental integrado para PYMES."
+          ]
+        }
+      }
+    },
+    {
+      "id": "nicole-ardila",
+      "name": "Nicole Gabriela Ardila Urrea",
+      "role": "Estudiante de Contaduría Pública",
+      "profile": "Especializada en regulación contable nacional e internacional y el desarrollo del gobierno corporativo sostenible.",
+      "phases": {
+        "fase1": {
+          "title": "Fase 1: Reconocimiento",
+          "summary": "Investigación sobre la fundamentación filosófica de la responsabilidad social corporativa (RSC) y su articulación práctica con los principios del código de ética del contador público en Colombia.",
+          "deliverables": [
+            "Ficha de lectura analítica sobre la teoría del bien común aplicada a las finanzas corporativas.",
+            "Infografía explicativa del decálogo de principios éticos profesionales."
+          ]
+        },
+        "fase2": {
+          "title": "Fase 2: Identificación",
+          "summary": "Análisis profundo de la responsabilidad social en el caso de la multinacional Odebrecht. Evaluación del rol desempeñado por los revisores fiscales y contadores involucrados en los reportes de transacciones.",
+          "deliverables": [
+            "Línea de tiempo detallada sobre las alertas contables omitidas durante el periodo crítico del escándalo.",
+            "Informe de vulnerabilidades éticas identificadas en el flujo de auditoría corporativa."
+          ]
+        },
+        "fase3": {
+          "title": "Fase 3: Propuesta",
+          "summary": "Construcción colectiva de medidas de mitigación del riesgo ético. Propuesta de adopción del estándar internacional de control de calidad para garantizar la transparencia del revisor fiscal.",
+          "deliverables": [
+            "Estructura lógica de las causas principales de la debilidad ética institucional.",
+            "Manual metodológico para capacitaciones éticas continuas a personal de contabilidad básica."
+          ]
+        },
+        "fase4": {
+          "title": "Fase 4: Evaluación",
+          "summary": "Medición y auditoría de la sostenibilidad empresarial. Análisis del rol del contador público frente a los informes integrados de sostenibilidad y el aseguramiento de la responsabilidad ética.",
+          "deliverables": [
+            "Estudio del caso sobre el impacto ambiental reportado por corporaciones y su verificación contable.",
+            "Esquema de auditoría para la validación de reportes de sostenibilidad corporativa."
+          ]
+        }
+      }
+    },
+    {
+      "id": "smith-suarez",
+      "name": "Smith Alejandra Suarez Silva",
+      "role": "Estudiante de Contaduría Pública",
+      "profile": "Enfoque en ética fiscal, contabilidad social y el impacto de las nuevas tecnologías en la confiabilidad contable.",
+      "phases": {
+        "fase1": {
+          "title": "Fase 1: Reconocimiento",
+          "summary": "Identificación de los principios éticos que rigen la relación entre el contador y el Estado. Análisis de la moral tributaria y la responsabilidad social del profesional frente al recaudo de impuestos.",
+          "deliverables": [
+            "Resumen analítico sobre el principio de justicia fiscal y el comportamiento ético del contribuyente.",
+            "Presentación interactiva sobre los dilemas morales en la planificación tributaria agresiva."
+          ]
+        },
+        "fase2": {
+          "title": "Fase 2: Identificación",
+          "summary": "Diagnóstico de las implicaciones éticas y penales del lavado de activos en consorcios multinacionales, tomando como base empírica las revelaciones del caso Odebrecht en Latinoamérica.",
+          "deliverables": [
+            "Ensayo analítico sobre las consecuencias sistémicas de la opacidad contable en licitaciones estatales.",
+            "Análisis crítico del papel de los reguladores externos y la contabilidad forense en el caso."
+          ]
+        },
+        "fase3": {
+          "title": "Fase 3: Propuesta",
+          "summary": "Diseño de directrices de buen gobierno y controles éticos para licitaciones públicas. Elaboración del árbol de causas y efectos para proponer cambios en los comités de auditoría.",
+          "deliverables": [
+            "Plan de acción para reformar los canales internos de denuncia en empresas contratistas del estado.",
+            "Propuesta para el fortalecimiento de las sanciones disciplinarias de la Junta Central de Contadores."
+          ]
+        },
+        "fase4": {
+          "title": "Fase 4: Evaluación",
+          "summary": "Análisis comparativo de los modelos de Gobierno Corporativo y su influencia directa en la sostenibilidad a largo plazo de las organizaciones colombianas y multinacionales.",
+          "deliverables": [
+            "Diagnóstico de buenas prácticas de gobernanza aplicables a empresas familiares medianas.",
+            "Plan de aseguramiento ético en la cadena de valor financiera corporativa."
+          ]
+        }
+      }
+    }
+  ],
+  "odebrechtCase": {
+    "summary": {
+      "title": "Resumen del Caso Odebrecht (Fase 2)",
+      "text": "El escándalo de la multinacional brasileña Odebrecht representa una de las catástrofes éticas y financieras más complejas en la historia de América Latina. A través de un sofisticado departamento estructurado específicamente para operaciones estructuradas, la compañía distribuyó cientos de millones de dólares en sobornos a funcionarios gubernamentales, partidos políticos y figuras públicas de primer nivel a cambio de contratos de infraestructura pública altamente lucrativos. Desde la perspectiva contable y de control, este caso expuso fallas sistémicas extremas. Los balances financieros de la compañía y de sus filiales locales fueron manipulados sistemáticamente para ocultar pagos ilícitos a través de redes de empresas fachada situadas en paraísos fiscales. Los revisores fiscales y contadores a cargo de certificar la veracidad de la información financiera omitieron deliberadamente transacciones sospechosas, canalizando recursos bajo conceptos fraudulentos de honorarios de asesoría técnica o gastos logísticos inexistentes, traicionando el principio fundamental de otorgar fe pública y revelando la vulnerabilidad institucional ante presiones de corrupción transnacional.",
+      "link": "https://unadvirtualedu-my.sharepoint.com/:w:/g/personal/jdvesgaga_unadvirtual_edu_co/IQAhcLmSciIGR5LGUjV_dtfVAQtV-0-yYIeQpN5SnkWWGqA?e=M5inq0"
+    },
+    "problemTree": {
+      "title": "Árbol de Problemas: Causas y Efectos del Fraude (Fase 3)",
+      "centralProblem": "Manipulación y Encubrimiento Contable en Licitaciones de Infraestructura Pública (Caso Odebrecht)",
+      "causes": [
+        {
+          "title": "Causas Estructurales",
+          "description": "Ausencia de controles internos robustos y falta de segregación de funciones críticas en el manejo de fondos de alta dirección."
+        },
+        {
+          "title": "Causas Profesionales",
+          "description": "Traición a la fe pública por parte de revisores fiscales, vulnerando los principios de independencia, objetividad y escepticismo profesional."
+        },
+        {
+          "title": "Causas Ambientales/Cultura",
+          "description": "Cultura corporativa orientada al beneficio a corto plazo mediante el soborno sistémico y debilidad en las sanciones disciplinarias estatales."
+        }
+      ],
+      "effects": [
+        {
+          "title": "Efectos Económicos",
+          "description": "Sobrecostos masivos en obras de infraestructura vial, destrucción de valor de mercado para accionistas minoritarios y pérdida de recursos públicos."
+        },
+        {
+          "title": "Efectos Sociales",
+          "description": "Erosión severa de la confianza ciudadana en las instituciones estatales y en la integridad de la profesión contable internacional."
+        },
+        {
+          "title": "Efectos Legales/Reputacionales",
+          "description": "Enjuiciamiento y encarcelamiento de ejecutivos, multas multimillonarias globales y descrédito sistémico de las firmas de auditoría involucradas."
+        }
+      ]
+    },
+    "recommendations": {
+      "title": "Recomendaciones Colaborativas (Fase 3)",
+      "items": [
+        "Implementar un código de ética y conducta: Se puede crear un documento que sea obligatorio y defina los valores, principios, y las sanciones enfrente de un acto de corrupción.",
+        "Fortalecer los mecanismos de denuncia: Poder establecer los canales anónimos que sean seguros para que los empleados y los de más trabajadores lleguen a reportar irregularidades.",
+        "Verificar el cumplimiento normativo: El revisor fiscal se debe de asegurar que sean estricto los cumplimientos de todas las normas legales tener una buena independencia.",
+        "Realizar las auditorías externas periódicas: Realizar la ejecución de las auditorias basadas en los riesgos y las contrataciones.",
+        "Evaluar los controles del sistema contables: Analizar el sistema del software contables, la seguridad de información y así evitaremos la información y así evitamos las alteraciones de los datos.",
+        "Segregación de funciones: Es importante dividir las responsabilidades dentro de la empresa para evitar que una sola persona tenga el control total de un proceso. El auditor y el revisor fiscal deben verificar que esta separación se cumpla, reduciendo así el riesgo de fraude.",
+        "Capacitación constante en ética y control interno: El contador público, como asesor financiero, debe promover capacitaciones periódicas sobre ética, transparencia y prevención del fraude, fortaleciendo la cultura organizacional.",
+        "Implementación de controles internos eficientes: Se deben establecer políticas y procedimientos claros que regulen las operaciones financieras. El auditor juega un papel clave evaluando la efectividad de estos controles.",
+        "Monitoreo y seguimiento continuo de las operaciones: El revisor fiscal debe realizar un seguimiento constante a las actividades financieras and administrativas para detectar posibles irregularidades a tiempo.",
+        "Uso de herramientas tecnológicas de control: El uso de software contable y sistemas de control ayuda a detectar inconsistencias, prevenir manipulaciones de información y mejorar la transparencia en los procesos."
+      ]
+    },
+    "corporateGovernance": {
+      "title": "Prácticas de Gobierno Corporativo en la Sostenibilidad (Fase 4)",
+      "positiveElements": [
+        "Establecimiento de Comités de Auditoría y Cumplimiento independientes integrados por miembros externos sin relaciones comerciales con la gerencia.",
+        "Implementación de Códigos de Buen Gobierno detallados con métricas claras y reportes públicos de sostenibilidad estructurados bajo estándares internacionales (GRI/ESG).",
+        "Adopción de estrictas políticas anticorrupción y de conflicto de intereses para todos los niveles corporativos, incluyendo subcontratistas."
+      ],
+      "negativeElements": [
+        "Concentración excesiva de poder de toma de decisiones en directivos clave sin contrapesos efectivos de comités independientes.",
+        "Inexistencia de auditorías de cumplimiento socioambiental rigurosas, limitando el reporte de sostenibilidad a un ejercicio de relaciones públicas (greenwashing).",
+        "Canales de denuncia interna deficientes, opacos y expuestos a represalias directas contra los empleados."
+      ]
+    }
+  },
+  "recommendationsSection": {
+    "normativity": {
+      "title": "La Actualización Continua del Contador en la Normatividad Contable",
+      "paragraphs": [
+        "La normatividad contable y tributaria global se encuentra en constante evolución. La adopción generalizada de las Normas Internacionales de Información Financiera (NIIF) y las dinámicas directrices tributarias nacionales exigen que el contador público mantenga un plan de formación y actualización continua. Un profesional desactualizado no solo representa un riesgo severo para la estabilidad legal y fiscal de la organización para la que presta sus servicios, sino que vulnera el principio de competencia y cuidado profesional consagrado en el código de ética contable.",
+        "Mantenerse actualizado en estándares de aseguramiento (NIAS), reportes de sostenibilidad corporativa y marcos regulatorios fiscales le permite al contador público añadir valor estratégico real a las juntas directivas. El análisis retrospectivo ya no es suficiente; la contabilidad moderna demanda un enfoque prospectivo de gestión de riesgos y planificación estratégica. Por ende, la educación profesional continua es una obligación moral que garantiza la precisión de la fe pública otorgada ante los agentes económicos."
+      ]
+    },
+    "technologyChallenges": {
+      "title": "Retos del Contador Público frente a las Nuevas Tendencias Tecnológicas",
+      "paragraphs": [
+        "Las nuevas tendencias tecnológicas están causando una profunda transformación en la contabilidad pública, que trae consigo retos y oportunidades importantes para esta profesión. La automatización y la implementación de inteligencia artificial, RPA y programas contables sofisticados están sustituyendo labores rutinarias como la recolección de datos, las conciliaciones y la preparación de informes elementales. Esto exige que el profesional pase de un rol operativo a uno estratégico: supervisar los procedimientos automatizados, certificar los resultados y ofrecer su criterio profesional en decisiones difíciles. Al mismo tiempo, debido al crecimiento del big data y la analítica avanzada, es necesario contar con habilidades para gestionar datos, visualizarlos y utilizar modelos predictivos. Para convertir información financiera y no financiera en percepciones útiles que generen valor para la organización, los contadores tienen que ser expertos en herramientas de business intelligence.",
+        "Simultáneamente, la digitalización aumenta los peligros de ciberseguridad, fraude y pérdida de datos confidenciales. Por eso, es esencial que el contador esté familiarizado con las normas de privacidad, los estándares de seguridad y los controles internos digitales, y coopere con departamentos de TI. Las autoridades fiscales y reguladoras también incorporan tecnologías (como la facturación electrónica y la fiscalización en tiempo real), lo que requiere actualizar los conocimientos legales y ajustar los procesos contables a nuevos formatos y plazos. Por último, hay un desafío cultural y formativo: la necesidad de formación constante en habilidades blandas (liderazgo, comunicación, pensamiento crítico) y técnicas (programación, análisis de datos, ERP) para que el contador del siglo XXI pueda transformar estos retos en beneficios competitivos y añadir valor estratégico sostenido."
+      ]
+    }
+  }
+}
