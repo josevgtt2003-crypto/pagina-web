@@ -16,7 +16,7 @@ export default function Home() {
             
             {/* Columna Izquierda: Mensaje y CTAs */}
             <div className="lg:col-span-7 space-y-6 text-center lg:text-left">
-              <div className="inline-flex items-center space-x-2 bg-accent/15 border border-accent/30 text-primary-foreground px-4 py-1.5 rounded-full text-xs font-semibold uppercase tracking-wider text-accent-foreground shadow-sm">
+              <div className="inline-flex items-center space-x-2 bg-accent/10 border border-accent/30 text-accent-foreground px-4 py-1.5 rounded-full text-xs font-semibold uppercase tracking-wider shadow-sm">
                 ✨ Tarea 5 - Ética & Responsabilidad Social
               </div>
               
